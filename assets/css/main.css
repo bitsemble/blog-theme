@@ -163,3 +163,18 @@ a:after {
     text-align: center;
     padding-top: 25px;
 }
+
+/* Bitsemble - Custom */
+.image-frame {
+    background-color: #eee; 
+    padding-bottom: 6px;
+    margin-top:20px;
+    margin-bottom:20px;   
+}
+
+.image {
+    width:75%;
+    height:auto;
+    display:block;
+}
+
