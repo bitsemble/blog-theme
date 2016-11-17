@@ -167,6 +167,7 @@ a:after {
 /* Bitsemble - Custom */
 .media-frame {
     background-color: #eee; 
+    padding-top: 6px;
     padding-bottom: 6px;
     margin-top:20px;
     margin-bottom:20px;  
