@@ -165,14 +165,15 @@ a:after {
 }
 
 /* Bitsemble - Custom */
-.image-frame {
+.media-frame {
     background-color: #eee; 
     padding-bottom: 6px;
     margin-top:20px;
-    margin-bottom:20px;   
+    margin-bottom:20px;  
+    text-align: center;
 }
 
-.image {
+.media-image {
     width:75%;
     height:auto;
     display:block;
